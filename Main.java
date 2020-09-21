@@ -11,7 +11,7 @@ class Main {
   public static void main(String[] args) {
   Scanner input = new Scanner(System.in);
   System.out.print("Enter a positive integer: ");
-  douintble num1 = input.nextInt();
+  int num1 = input.nextInt();
   System.out.print("Enter a positive integer: ");
   int num2 = input.nextInt();
   // Leave above code alone. Code your solution below...
