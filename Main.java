@@ -15,6 +15,6 @@ class Main {
   System.out.print("Enter a positive integer: ");
   int num2 = input.nextInt();
   // Leave above code alone. Code your solution below...
-    
+  System.out.println(num1+" + "+num2+" = "+(num1+num2));
   }
 }
